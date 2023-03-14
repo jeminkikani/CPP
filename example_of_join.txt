@@ -1,0 +1,12 @@
+1. INNER JOIN 
+2. LEFT JOIN
+3. RIGHT JOIN 
+4. FULL JOIN 
+5. CROSS JOIN
+
+EXAMPLE 
+1 :- TABLE1     TABLE2 
+    A              D
+    B              E
+    D              G
+    F              A 
